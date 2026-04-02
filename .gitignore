@@ -4,5 +4,4 @@ __pycache__/
 *.json
 outputs/
 venv/
-google key/
-settings.py
+google_key/
