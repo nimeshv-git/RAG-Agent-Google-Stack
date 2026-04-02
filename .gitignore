@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+*.json
+outputs/
+venv/
+google key/
+settings.py
